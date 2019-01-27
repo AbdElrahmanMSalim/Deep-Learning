@@ -1,4 +1,5 @@
-#Real-Time object detection implementation using YOLO
+Real-Time object detection implementation using YOLO
+----
 
 Implemetation based on work in Convolutional Neural Networks Course by Andrew NG.
 ----
