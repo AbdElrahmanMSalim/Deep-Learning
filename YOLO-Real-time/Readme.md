@@ -1,7 +1,7 @@
 Real-Time object detection implementation using YOLO
 ----
 
-Implemetation based on work in Convolutional Neural Networks Course by Andrew NG.
+Implementation based on work in Convolutional Neural Networks Course by Andrew NG.
 ----
 
 You have to download Yolo.h5 file and put it in model_data\ 
